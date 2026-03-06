@@ -85,7 +85,7 @@ agent.execute()
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaystarc&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaystarc&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaystarc&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa"/>
 
 </div>
 
